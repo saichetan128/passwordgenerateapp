@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_288764_passwordr.user_table_user" name="x_288764_passwordr.user_table_user">eb25421737a22300eb30dcc773990eac</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-28 13:15:14</sys_created_on>
+        <sys_id>af25421737a22300eb30dcc773990eae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eb25421737a22300eb30dcc773990eac</sys_name>
+        <sys_package display_value="PasswordResetApplication" source="x_288764_passwordr">99a4421f37622300eb30dcc773990e83</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PasswordResetApplication">99a4421f37622300eb30dcc773990e83</sys_scope>
+        <sys_update_name>sys_embedded_help_role_af25421737a22300eb30dcc773990eae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-28 13:15:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
